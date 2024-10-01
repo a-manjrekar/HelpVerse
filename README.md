@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
   </div>
 
-  <h3 align="center">A Full Stack Next 14 Events App</h3>
+  <h3 align="center">A Full Stack Volunteering Event Registraion Web App</h3>
 
  
 </div>
